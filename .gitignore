@@ -1,0 +1,16 @@
+# Secrets — config.json holds the API key
+config.json
+
+# MediaPipe model (~3.7 MB, auto-downloaded on first run)
+face_landmarker.task
+
+# Legacy local scripts, superseded by app.py
+main.py
+mainm.py
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
